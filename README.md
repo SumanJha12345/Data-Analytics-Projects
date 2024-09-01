@@ -1,0 +1,1 @@
+This repository contains a collection of data analytics projects focusing on diverse domains and techniques. Each project explores different datasets and applies various analytical and visualization methods to derive meaningful insights.
